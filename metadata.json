@@ -1,0 +1,5 @@
+{
+  "name": "Pulsing Splash Portal",
+  "description": "A minimalist React application featuring a sophisticated 5-second pulsing splash screen transition into a clean, modern workspace.",
+  "requestFramePermissions": []
+}
